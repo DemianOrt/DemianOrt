@@ -4,8 +4,8 @@
 Actualmente cursando la Licenciatura en **Administración de Negocios en Utel University**, combinando una sólida base técnica y analítica con visión estratégica. Me especializo en traducir objetivos comerciales en arquitecturas web limpias y funcionales.
 
 ## 🚀 Core Focus
-- **Frontend Development:** Creación de interfaces responsivas y optimización UX/UI para PyMEs (Ej. *Beauty Center By Karen Arellano*).
-- **R&D / Innovación:** Desarrollo y experimentación con Inteligencia Artificial aplicada a la automatización de procesos (Proyecto *Miriam AI*).
+- **Frontend Development:** Creación de interfaces responsivas y optimización UX/UI para PyMEs.
+- **R&D / Innovación:** Desarrollo y experimentación con Inteligencia Artificial aplicada a la automatización de procesos.
 - **Business Strategy:** Aplicación de metodologías de gestión para asegurar la rentabilidad de cada línea de código.
 
 ## 🛠️ Stack Tecnológico
