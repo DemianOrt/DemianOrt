@@ -13,5 +13,5 @@ Actualmente cursando la Licenciatura en **Administración de Negocios en Utel Un
 - **Herramientas:** Git, GitHub, VS Code, Responsive Design.
 
 ## 📬 Conectemos
-- [LinkedIn](https://linkedin.com/in/emilio-ortega-biz) *(Sustituye con tu URL real)*
+- [LinkedIn](https://linkedin.com/in/emilio-ortega-biz)
 - [Portafolio Profesional](https://demianort.github.io)
