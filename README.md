@@ -19,5 +19,5 @@ Desarrollador y gestor enfocado en la convergencia entre la tecnología y los ne
 
 📫 **Red de Contacto Profesional**
 * **Email Corporativo:** [eortega@ik.me](mailto:eortega@ik.me)
-* **LinkedIn:** [Enlace a perfil]([URL_DE_LINKEDIN_AQUI](https://www.linkedin.com/in/emilio-damian-ortega-gonzalez-412019343/))
+* **LinkedIn:** [Enlace a perfil](https://www.linkedin.com/in/emilio-damian-ortega-gonzalez-412019343/)
 * **Portafolio Técnico:** [Enlace a portafolio](https://demianort.github.io)
